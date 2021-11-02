@@ -46,12 +46,12 @@
                 <div class="row justify-content-center">
                     <div class="col-sm">
                         <!--cuadro de texto para recoger el NIF-->
-                        <label for="email">NIF</label>
+                        <label for="nif">NIF</label>
                         <input type="text" class="form-control" id="nif" name="nif">
                     </div>
                     <div class="col-sm">
-                        <!--cuadro de texto para recoger la contraseña-->
-                        <label for="passwd">Fecha de Nacimiento</label>
+                        <!--cuadro de texto para recoger la fecha de nacimiento-->
+                        <label for="fecha">Fecha de Nacimiento</label>
                         <input type="text" class="form-control" id="fecha" name="fecha">
                     </div>
                 </div>
