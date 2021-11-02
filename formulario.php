@@ -5,6 +5,7 @@
         integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.0/jquery.validate.min.js"></script>
+        <link rel="stylesheet" type="text/css" href="estilos.css">
         <title>Ejercicio 2</title> 
     </head>
     <body>
@@ -38,7 +39,7 @@
                     <div class="col-sm">
                         <!--cuadro de texto para recoger la contraseña-->
                         <label for="passwd">Contraseña</label>
-                        <input type="text" class="form-control" id="passwd" name="passwd">
+                        <input type="password" class="form-control" id="passwd" name="passwd">
                     </div>
                 </div>
                 <br/>
